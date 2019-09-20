@@ -108,9 +108,10 @@
             // lblAnsA
             // 
             this.lblAnsA.AutoSize = true;
+            this.lblAnsA.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblAnsA.Location = new System.Drawing.Point(444, 421);
             this.lblAnsA.Name = "lblAnsA";
-            this.lblAnsA.Size = new System.Drawing.Size(29, 13);
+            this.lblAnsA.Size = new System.Drawing.Size(50, 24);
             this.lblAnsA.TabIndex = 7;
             this.lblAnsA.Text = "label";
             // 
@@ -127,9 +128,10 @@
             // lblAnsP
             // 
             this.lblAnsP.AutoSize = true;
+            this.lblAnsP.Font = new System.Drawing.Font("Microsoft Sans Serif", 14F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.lblAnsP.Location = new System.Drawing.Point(444, 344);
             this.lblAnsP.Name = "lblAnsP";
-            this.lblAnsP.Size = new System.Drawing.Size(35, 13);
+            this.lblAnsP.Size = new System.Drawing.Size(60, 24);
             this.lblAnsP.TabIndex = 9;
             this.lblAnsP.Text = "label1";
             this.lblAnsP.Click += new System.EventHandler(this.LblAnsP_Click);

@@ -1,0 +1,10 @@
+N:\Classes\Sem1-Fall2019\ICS3U Programming\JTaishaun (s448793)\Unit 1 (Problem Solving)\CircTaishaun\CircTaishaun\bin\Debug\CircTaishaun.exe.config
+N:\Classes\Sem1-Fall2019\ICS3U Programming\JTaishaun (s448793)\Unit 1 (Problem Solving)\CircTaishaun\CircTaishaun\bin\Debug\CircTaishaun.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\JTaishaun (s448793)\Unit 1 (Problem Solving)\CircTaishaun\CircTaishaun\bin\Debug\CircTaishaun.pdb
+N:\Classes\Sem1-Fall2019\ICS3U Programming\JTaishaun (s448793)\Unit 1 (Problem Solving)\CircTaishaun\CircTaishaun\obj\Debug\CircTaishaun.csprojAssemblyReference.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\JTaishaun (s448793)\Unit 1 (Problem Solving)\CircTaishaun\CircTaishaun\obj\Debug\CircTaishaun.frmCirc.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\JTaishaun (s448793)\Unit 1 (Problem Solving)\CircTaishaun\CircTaishaun\obj\Debug\CircTaishaun.Properties.Resources.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\JTaishaun (s448793)\Unit 1 (Problem Solving)\CircTaishaun\CircTaishaun\obj\Debug\CircTaishaun.csproj.GenerateResource.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\JTaishaun (s448793)\Unit 1 (Problem Solving)\CircTaishaun\CircTaishaun\obj\Debug\CircTaishaun.csproj.CoreCompileInputs.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\JTaishaun (s448793)\Unit 1 (Problem Solving)\CircTaishaun\CircTaishaun\obj\Debug\CircTaishaun.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\JTaishaun (s448793)\Unit 1 (Problem Solving)\CircTaishaun\CircTaishaun\obj\Debug\CircTaishaun.pdb
