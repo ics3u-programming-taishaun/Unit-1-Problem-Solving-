@@ -1,4 +1,11 @@
-﻿using System;
+﻿/*
+ * Created by: Taishaun Johnson
+ * Created on: Sept,30,2019
+ * Created for: ICS3U Programming
+ * Daily Assignment – Day #11 - Top Down Design & Flow chart
+ * This program Displays the circumference of a circle when given the radius
+*/
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;

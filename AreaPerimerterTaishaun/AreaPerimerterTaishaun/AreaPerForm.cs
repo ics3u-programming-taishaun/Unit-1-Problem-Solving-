@@ -1,4 +1,11 @@
-﻿using System;
+﻿/*
+ * Created by: Taishaun Johnsohn
+ * Created on: 4,Oct,2019
+ * Created for: ICS3U Programming
+ * Daily Assignment – Day #10 - Changing area and perimeter
+ * This program changes the perimeter and area depending on what number you put in the textbox
+*/
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;

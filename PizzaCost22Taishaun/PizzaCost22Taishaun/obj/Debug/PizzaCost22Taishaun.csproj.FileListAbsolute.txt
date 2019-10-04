@@ -1,0 +1,5 @@
+N:\Classes\Sem1-Fall2019\ICS3U Programming\JTaishaun (s448793)\Unit 1 (Problem Solving)\PizzaCost22Taishaun\PizzaCost22Taishaun\obj\Debug\PizzaCost22Taishaun.csprojAssemblyReference.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\JTaishaun (s448793)\Unit 1 (Problem Solving)\PizzaCost22Taishaun\PizzaCost22Taishaun\obj\Debug\PizzaCost22Taishaun.frmPizzaCost.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\JTaishaun (s448793)\Unit 1 (Problem Solving)\PizzaCost22Taishaun\PizzaCost22Taishaun\obj\Debug\PizzaCost22Taishaun.Properties.Resources.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\JTaishaun (s448793)\Unit 1 (Problem Solving)\PizzaCost22Taishaun\PizzaCost22Taishaun\obj\Debug\PizzaCost22Taishaun.csproj.GenerateResource.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\JTaishaun (s448793)\Unit 1 (Problem Solving)\PizzaCost22Taishaun\PizzaCost22Taishaun\obj\Debug\PizzaCost22Taishaun.csproj.CoreCompileInputs.cache
