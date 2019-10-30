@@ -28,24 +28,26 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.lblDiameter = new System.Windows.Forms.Label();
+            this.lblSmallPizza = new System.Windows.Forms.Label();
             this.txtNumDia = new System.Windows.Forms.TextBox();
             this.btnCalculate = new System.Windows.Forms.Button();
             this.lblTotalC = new System.Windows.Forms.Label();
             this.lblAnsTotalC = new System.Windows.Forms.Label();
             this.lblSubTotal = new System.Windows.Forms.Label();
             this.lblSubAns = new System.Windows.Forms.Label();
+            this.lblMediumPizza = new System.Windows.Forms.Label();
+            this.lblLargePizza = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
-            // lblDiameter
+            // lblSmallPizza
             // 
-            this.lblDiameter.AutoSize = true;
-            this.lblDiameter.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.lblDiameter.Location = new System.Drawing.Point(121, 120);
-            this.lblDiameter.Name = "lblDiameter";
-            this.lblDiameter.Size = new System.Drawing.Size(140, 26);
-            this.lblDiameter.TabIndex = 0;
-            this.lblDiameter.Text = "Diameter (m)";
+            this.lblSmallPizza.AutoSize = true;
+            this.lblSmallPizza.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblSmallPizza.Location = new System.Drawing.Point(97, 84);
+            this.lblSmallPizza.Name = "lblSmallPizza";
+            this.lblSmallPizza.Size = new System.Drawing.Size(147, 26);
+            this.lblSmallPizza.TabIndex = 0;
+            this.lblSmallPizza.Text = "Small Pizza =";
             // 
             // txtNumDia
             // 
@@ -105,19 +107,42 @@
             this.lblSubAns.TabIndex = 6;
             this.lblSubAns.Text = "Answer";
             // 
+            // lblMediumPizza
+            // 
+            this.lblMediumPizza.AutoSize = true;
+            this.lblMediumPizza.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblMediumPizza.Location = new System.Drawing.Point(102, 132);
+            this.lblMediumPizza.Name = "lblMediumPizza";
+            this.lblMediumPizza.Size = new System.Drawing.Size(175, 26);
+            this.lblMediumPizza.TabIndex = 7;
+            this.lblMediumPizza.Text = "Medium Pizza = ";
+            // 
+            // lblLargePizza
+            // 
+            this.lblLargePizza.AutoSize = true;
+            this.lblLargePizza.Font = new System.Drawing.Font("Microsoft Sans Serif", 16F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.lblLargePizza.Location = new System.Drawing.Point(102, 181);
+            this.lblLargePizza.Name = "lblLargePizza";
+            this.lblLargePizza.Size = new System.Drawing.Size(146, 26);
+            this.lblLargePizza.TabIndex = 8;
+            this.lblLargePizza.Text = "Large Pizza =";
+            this.lblLargePizza.Click += new System.EventHandler(this.Label1_Click);
+            // 
             // frmPizzaCost
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ActiveCaption;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.lblLargePizza);
+            this.Controls.Add(this.lblMediumPizza);
             this.Controls.Add(this.lblSubAns);
             this.Controls.Add(this.lblSubTotal);
             this.Controls.Add(this.lblAnsTotalC);
             this.Controls.Add(this.lblTotalC);
             this.Controls.Add(this.btnCalculate);
             this.Controls.Add(this.txtNumDia);
-            this.Controls.Add(this.lblDiameter);
+            this.Controls.Add(this.lblSmallPizza);
             this.Name = "frmPizzaCost";
             this.Text = "Pizza Cost by Taishaun Johnson";
             this.Load += new System.EventHandler(this.PizzaCostForm_Load);
@@ -128,13 +153,15 @@
 
         #endregion
 
-        private System.Windows.Forms.Label lblDiameter;
+        private System.Windows.Forms.Label lblSmallPizza;
         private System.Windows.Forms.TextBox txtNumDia;
         private System.Windows.Forms.Button btnCalculate;
         private System.Windows.Forms.Label lblTotalC;
         private System.Windows.Forms.Label lblAnsTotalC;
         private System.Windows.Forms.Label lblSubTotal;
         private System.Windows.Forms.Label lblSubAns;
+        private System.Windows.Forms.Label lblMediumPizza;
+        private System.Windows.Forms.Label lblLargePizza;
     }
 }
 
